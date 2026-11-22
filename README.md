@@ -26,5 +26,12 @@ This repository contains all my laboratory work and the final capstone project f
 ### Capstone Project
 - **`ICD341_Capstone`**: A fully packaged, deployable version of the Streamlit Dashboard project, including data, source scripts, outputs, and documentation. 
 
+
+## Capstone Project Report
+The final project report is available in the repository. 
+👉 **[Click here to view the PDF Report](ICD341_Capstone_Report.pdf)** 
+
+*Note: GitHub does not preview PDFs directly. To view the report, click the "Download" button on the page that opens.*
+
 ## Author
 **Bwalya Kasongo** (202403418)
